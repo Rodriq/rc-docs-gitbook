@@ -581,7 +581,6 @@
 
 * [How can I help?](contributors/contributing/README.md)
   * [Bug Reporting](contributors/contributing/reporting-issues.md)
-  * [Developing](contributors/contributing/developing.md)
   * [Documenting](contributors/contributing/documentation/README.md)
     * [New Feature Template](contributors/contributing/documentation/new-feature-draft.md)
     * [Feature Change Template](contributors/contributing/documentation/feature-change-draft.md)
@@ -592,6 +591,7 @@
   * [Security](contributors/contributing/security/README.md)
     * [Responsible Disclosure Policy](contributors/contributing/security/responsible-disclosure-policy.md)
   * [Translating](contributors/contributing/translating.md)
+* [Developing](contributors/developing.md)
 * [Code of Conduct](contributors/code\_of\_conduct.md)
 * [Google Summer of Code](contributors/gsoc/README.md)
   * [Google Summer of Code 2020](contributors/gsoc/google-summer-of-code-2020.md)

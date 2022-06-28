@@ -4,7 +4,7 @@
 
 There are multiple ways you can help - even if you don't write code, you can still contribute. We are always looking for assistance with creating or updating documentation, testing our web, desktop and mobile apps, and reporting bugs.
 
-**Developers** who wish to make contributions, please go [here](developing.md) to start.
+**Developers** who wish to make contributions, please go [here](../developing.md) to start.
 
 If you have found a **security**, issue [report it](security/).
 
