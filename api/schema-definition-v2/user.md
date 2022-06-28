@@ -1,0 +1,6 @@
+# IUser
+
+## Interface Definition
+
+```typescript
+```
