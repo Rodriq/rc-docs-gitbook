@@ -10,7 +10,7 @@ If you have found a **security**, issue [report it](security/).
 
 Rocket.Chat is currently **translated** into more than twenty languages, but we've got a long way to go. If you'd like to assist us with this please email our [translation team](mailto:translations@rocket.chat) to be invited to our [Lingohub](https://translate.lingohub.com) project.
 
-To help improve our **documentation**, please see [contribution guides](documentation/).
+To help improve our **documentation**, please see [contribution guides](documenting).
 
 **Bloggers and news writers**, feel free to [spread the word](promoting.md)!
 
